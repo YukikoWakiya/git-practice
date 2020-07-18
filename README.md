@@ -1,4 +1,5 @@
 # git-practice
 
-git の練習です。
-これはほかの人が書き加えました。
+以下の URL で確認することができます。
+
+https://yukikowakiya.github.io/git-practice/
